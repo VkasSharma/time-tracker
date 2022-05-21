@@ -1,4 +1,4 @@
-# time-tracker app
+# time-tracker apps
 Java (Maven) application for tracking time on the job
 
 Time tracker
